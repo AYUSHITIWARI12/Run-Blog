@@ -14,8 +14,18 @@ Create or See any Blog with this website Based on Django Backend.
 ![DELL - Screenshot (3768)](https://user-images.githubusercontent.com/47920126/112747096-c968f300-8fd0-11eb-9335-855e4a4dacf9.png)
 
 
+--Blog
+
+
+
 --Search
 
 
 ![DELL - Screenshot (3767)](https://user-images.githubusercontent.com/47920126/112747205-6deb3500-8fd1-11eb-94f0-65f7f0ff0948.png)
+
+--About Us
+
+
+
+--Contact-Us
 
