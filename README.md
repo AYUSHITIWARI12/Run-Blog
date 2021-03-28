@@ -17,7 +17,7 @@ Create or See any Blog with this website Based on Django Backend.
 --Blog
 
 
-![DELL - Screenshot (3763)](https://user-images.githubusercontent.com/47920126/112747286-01246a80-8fd2-11eb-8712-77f953f6e786.png)
+
 
 
 
@@ -37,6 +37,6 @@ Create or See any Blog with this website Based on Django Backend.
 
 
 
-
 --Contact-Us
+![DELL - Screenshot (3763)](https://user-images.githubusercontent.com/47920126/112747286-01246a80-8fd2-11eb-8712-77f953f6e786.png)
 
